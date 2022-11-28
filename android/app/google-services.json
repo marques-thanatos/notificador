@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476611843914",
+    "project_id": "notificador-db66b",
+    "storage_bucket": "notificador-db66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476611843914:android:46829a35c2ef32467993b3",
+        "android_client_info": {
+          "package_name": "bullest.souhi.notificador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476611843914-b4c44dhv3ojn3ojl67hjpd8og6ekmq6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL8ivswQph7dPbKyvEeLYktZZDwrwRfWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476611843914-b4c44dhv3ojn3ojl67hjpd8og6ekmq6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
